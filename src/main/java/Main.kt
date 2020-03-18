@@ -1,5 +1,3 @@
-package com.example.heroku
-
 import io.ktor.application.*
 import io.ktor.http.*
 import io.ktor.response.*
