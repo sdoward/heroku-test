@@ -1,1 +1,1 @@
-web: build/install/kotlinserver/bin/kotlinserver
+web: build/install/gradle-getting-started/bin/gradle-getting-started
